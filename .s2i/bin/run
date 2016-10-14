@@ -1,1 +1,1 @@
-python -mcustodia.server /custodia/custodia.conf
+python -mcustodia.server /opt/app-root/src/custodia.conf
