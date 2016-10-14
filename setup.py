@@ -100,7 +100,7 @@ setup(
     tests_require=test_requires,
     extras_require={
         # extended interpolation is provided by stdlib in Python 3.4+
-        ':python_version<"3.4"': ['configparser'],
+        #':python_version<"3.4"': ['configparser'],
         'etcd_store': etcd_requires,
         'test': test_requires,
         'test_docs': test_docs_requires,
