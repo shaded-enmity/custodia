@@ -1,0 +1,1 @@
+python -mcustodia.server /custodia/custodia.conf
